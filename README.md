@@ -11,4 +11,4 @@
   - Delete a note by clicking the trash-bin icon
   - Host on AWS https://master.d1a8y3p4knkp4h.amplifyapp.com/
   
- ##### the above projects resources are from the Web Bootcamp Course of Udemy by Dr. Angela Yu, Link here: https://www.udemy.com/course/the-complete-web-development-bootcamp/
+ #### the above projects resources are from the Web Bootcamp Course of Udemy by Dr. Angela Yu, Link here: https://www.udemy.com/course/the-complete-web-development-bootcamp/
